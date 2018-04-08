@@ -1,0 +1,16 @@
+PODS:
+  - ios-essentials (0.1.0)
+
+DEPENDENCIES:
+  - ios-essentials (from `../`)
+
+EXTERNAL SOURCES:
+  ios-essentials:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ios-essentials: 5983ca8cf89f7d3b29ddf1810338f44f78d9fafa
+
+PODFILE CHECKSUM: 9cb05a9e829d3b9968db2bd3ccf9704d74122624
+
+COCOAPODS: 1.4.0

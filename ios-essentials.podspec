@@ -18,17 +18,17 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  simple extensions to kickstart almost all my projects.
                        DESC
 
-  s.homepage         = 'https://github.com/2aaaf18d9c8945703de03c552922e9b7feef1884/ios-essentials'
+  s.homepage         = 'https://github.com/a-eid/ios-essentials'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '2aaaf18d9c8945703de03c552922e9b7feef1884' => 'a.eid@yandex.com' }
-  s.source           = { :git => 'https://github.com/2aaaf18d9c8945703de03c552922e9b7feef1884/ios-essentials.git', :tag => s.version.to_s }
+  s.author           = { 'a-eid' => 'a.eid@yandex.com' }
+  s.source           = { :git => 'https://github.com/a-eid/ios-essentials.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '10.0'
 
   s.source_files = 'ios-essentials/Classes/**/*'
   

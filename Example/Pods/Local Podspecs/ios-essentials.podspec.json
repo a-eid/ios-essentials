@@ -1,0 +1,22 @@
+{
+  "name": "ios-essentials",
+  "version": "0.1.0",
+  "summary": "A short description of ios-essentials.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/2aaaf18d9c8945703de03c552922e9b7feef1884/ios-essentials",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "2aaaf18d9c8945703de03c552922e9b7feef1884": "a.eid@yandex.com"
+  },
+  "source": {
+    "git": "https://github.com/2aaaf18d9c8945703de03c552922e9b7feef1884/ios-essentials.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ios-essentials/Classes/**/*"
+}
