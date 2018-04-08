@@ -8,8 +8,9 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ios-essentials'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of ios-essentials.'
+  s.swift_version    = '4.0'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +19,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-  simple extensions to kickstart almost all my projects.
+  
+  add simple extensions and methods to kickstart my personal projects,
+  makes adding constraints easier, makes making colors with hex values possible
+  ass well as other.
+  
+  # Todo Installation & Documentation
+  
+
                        DESC
 
   s.homepage         = 'https://github.com/a-eid/ios-essentials'
